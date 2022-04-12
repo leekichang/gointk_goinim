@@ -1,3 +1,8 @@
+venv/
+saved_models/
+data/
+proposal/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
