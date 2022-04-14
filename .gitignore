@@ -2,7 +2,9 @@ venv/
 saved_models/
 data/
 proposal/
-
+training_result/
+SViTE/
+s
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
